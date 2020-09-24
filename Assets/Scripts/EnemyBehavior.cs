@@ -17,17 +17,23 @@ public class EnemyBehavior : MonoBehaviour
     void Update()
     {
         walkTimer += Time.deltaTime;
-        if(walkTimer < 3)
+        if(walkTimer < 3f)
         {
             //move left
-            hor = new Vector3(-3f, 0f, 0f);
+            hor = new Vector3(-15f, 0f, 0f);
             GetComponent<Rigidbody2D>().AddForce(hor);
         }
-        if (walkTimer > 3)
+        if (walkTimer > 3f)
         {
             //move right
-            hor = new Vector3(3f, 0f, 0f);
+            hor = new Vector3(15f, 0f, 0f);
             GetComponent<Rigidbody2D>().AddForce(hor);
+
+        }
+        if (walkTimer > 6) 
+        {
+            walkTimer = 0;
+            GetComponent<Rigidbody2D>().velocity = new Vector2(0f, 0f);
         }
     }
 }
