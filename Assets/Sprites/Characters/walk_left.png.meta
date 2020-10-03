@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 32cf0a7e28ca3a543a50401a4993d753
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1662698073010213696
+    second: walk_left_0
+  - first:
+      213: 6571582165766299699
+    second: walk_left_1
+  - first:
+      213: -5592563272734792801
+    second: walk_left_2
+  - first:
+      213: 5858914145492465574
+    second: walk_left_3
+  - first:
+      213: -3576864990075504725
+    second: walk_left_4
+  - first:
+      213: 1827077515100771991
+    second: walk_left_5
+  - first:
+      213: 3331697891312497753
+    second: walk_left_6
+  - first:
+      213: -99289432186467501
+    second: walk_left_7
+  - first:
+      213: -6596540786895615564
+    second: walk_left_8
+  - first:
+      213: 4211215530879509671
+    second: walk_left_9
+  - first:
+      213: -6372937676704198235
+    second: walk_left_10
+  - first:
+      213: -8016276078524851372
+    second: walk_left_11
+  - first:
+      213: 2333033946041574788
+    second: walk_left_12
+  - first:
+      213: -8366080782997328425
+    second: walk_left_13
+  - first:
+      213: 3214338825566193868
+    second: walk_left_14
+  - first:
+      213: 265807844616867422
+    second: walk_left_15
+  - first:
+      213: -8469999345595917534
+    second: walk_left_16
+  - first:
+      213: 5556189097081184736
+    second: walk_left_17
+  - first:
+      213: -1342891664084326736
+    second: walk_left_18
+  - first:
+      213: -8228364933487093419
+    second: walk_left_19
+  - first:
+      213: -8044296062715599906
+    second: walk_left_20
+  - first:
+      213: 7751439027861931794
+    second: walk_left_21
+  - first:
+      213: -8147224917607837923
+    second: walk_left_22
+  - first:
+      213: -892123508267705181
+    second: walk_left_23
+  - first:
+      213: 3431095114622751842
+    second: walk_left_24
+  - first:
+      213: 1279749709734774671
+    second: walk_left_25
+  - first:
+      213: -4356008850244974046
+    second: walk_left_26
+  - first:
+      213: -8728733242833823212
+    second: walk_left_27
+  - first:
+      213: -6571647482255997539
+    second: walk_left_28
+  - first:
+      213: 5787903482650849198
+    second: walk_left_29
+  - first:
+      213: -7346137390202826082
+    second: walk_left_30
+  - first:
+      213: -4928340114395208806
+    second: walk_left_31
+  - first:
+      213: -901483768302629975
+    second: walk_left_32
+  - first:
+      213: 5713629648972984496
+    second: walk_left_33
+  - first:
+      213: 6210524338725079999
+    second: walk_left_34
+  - first:
+      213: -4662020560169182896
+    second: walk_left_35
+  - first:
+      213: 3379559483857593538
+    second: walk_left_36
+  - first:
+      213: 1961045289897992683
+    second: walk_left_37
+  - first:
+      213: -4381991150799829473
+    second: walk_left_38
+  - first:
+      213: 1677398554914812844
+    second: walk_left_39
+  - first:
+      213: -5358724056800623003
+    second: walk_left_40
+  - first:
+      213: 5355441850033254212
+    second: walk_left_41
+  - first:
+      213: -9066498024911865255
+    second: walk_left_42
+  - first:
+      213: -6930843973244484124
+    second: walk_left_43
+  - first:
+      213: 5033922554911190774
+    second: walk_left_44
+  - first:
+      213: 4595930218265680028
+    second: walk_left_45
+  - first:
+      213: -4274880139219749245
+    second: walk_left_46
+  - first:
+      213: -7853378076403895025
+    second: walk_left_47
+  - first:
+      213: 9220178672864287404
+    second: walk_left_48
+  - first:
+      213: 205824444168898477
+    second: walk_left_49
+  - first:
+      213: 469445381503371917
+    second: walk_left_50
+  - first:
+      213: 354742588746688651
+    second: walk_left_51
+  - first:
+      213: 822064361298126536
+    second: walk_left_52
+  - first:
+      213: -881084949110483637
+    second: walk_left_53
+  - first:
+      213: -6447891137032515141
+    second: walk_left_54
+  - first:
+      213: -4453066302389777027
+    second: walk_left_55
+  - first:
+      213: -1921829310079707118
+    second: walk_left_56
+  - first:
+      213: 3894086495768875445
+    second: walk_left_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_left_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 17
+        width: 293
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043108a8617131710800000000000000
+      internalID: 1662698073010213696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_left_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 11
+        width: 267
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330eaca7923f23b50800000000000000
+      internalID: 6571582165766299699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_left_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 11
+        width: 272
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f932fb885593362b0800000000000000
+      internalID: -5592563272734792801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_left_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 21
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7f69b9f5b0f4150800000000000000
+      internalID: 5858914145492465574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_left_4
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 15
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7b4091e3c6c5ec0800000000000000
+      internalID: -3576864990075504725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_left_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 34
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965fa8d1551b5910800000000000000
+      internalID: 1827077515100771991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_left_6
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 11
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954799e74919c3e20800000000000000
+      internalID: 3331697891312497753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
